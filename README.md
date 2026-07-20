@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Sergio
 
-At work:
+At work: 
+
 Dedicated to elevating hospitality through digital intelligence. 
 
 Beyond the Terminal:
