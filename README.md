@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Sergio
 
-<!--
-**ailogio/ailogio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer @ AiLogio | Cloud Architect 🏗️
+Dedicated to elevating hospitality through digital intelligence. Bridging complex infrastructures with elegant code to transform human experiences into seamless technology.
 
-Here are some ideas to get you started:
+Beyond the Terminal:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Idea Launcher 🚀: Passionate about turning abstract concepts into scalable realities.
+Philosopher & Snack Hunter 🥟🍲: Finding logic in chaos, and balance in a full kitchen (Kitchen Boss) or with my feline family and 😼 (Captive Cat Dad).
+Open to connecting on tech trends that matter!
+
+### Skills & Tech
+Azure/GCP | Kubernetes | AI/ML Integration | GoLang  | Python |
+
+## Latest in my blog
+<div align="center">
+  
+  <a href="https://ailogio.github.io/en/blog/forget-about-forgetting-work/">
+  <img src="media/imgs/decomposition-estimation-strategy.png" alt="Live App" height="40px" width="76%">
+</a>
+</div>
