@@ -16,6 +16,6 @@ Azure/GCP | Kubernetes | AI/ML Integration | GoLang  | Python |
 <div align="center">
   
   <a href="https://ailogio.github.io/en/blog/forget-about-forgetting-work/">
-  <img src="media/imgs/decomposition-estimation-strategy.png" alt="Live App" height="40px" width="76%">
+  <img src="media/imgs/decomposition-estimation-strategy.png" alt="Live App" width="76%">
 </a>
 </div>
