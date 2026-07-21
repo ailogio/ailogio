@@ -13,3 +13,4 @@ Open to connecting on tech trends that matter!
   <img src="media/imgs/decomposition-estimation-strategy.png" alt="Live App" width="76%">
 </a>
 </div>
+
