@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sergio Software Engineer 
+## Hi there 👋 I'm Sergio
 
 **At work:** Dedicated to elevating hospitality through digital intelligence. 
 
