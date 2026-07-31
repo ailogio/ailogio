@@ -1,9 +1,7 @@
-## Hi there 👋 I'm Sergio
+## Hello devs!
 
-**At work:** Dedicated to elevating hospitality through digital intelligence. 
+Ailogio is a software development agency focused on the hospitality sector. We build modern applications that integrate AI services and payment platforms to streamline operations and improve guest experience.
 
-**Beyond the Terminal:** Idea Launcher 🚀: Passionate about turning abstract concepts into scalable realities.
-Philosopher & Snack Hunter 🥟🍲: Finding logic in chaos, and balance in a full kitchen (Kitchen Boss) or with my feline family and 😼 (Captive Cat Dad).
 Open to connecting on tech trends that matter!
 
 ### Latest in my blog
