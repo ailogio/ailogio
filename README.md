@@ -4,7 +4,7 @@ Ailogio is a software development agency focused on the hospitality sector. We b
 
 Open to connecting on tech trends that matter!
 
-### Latest in my blog
+### Latest in our Github blog
 <div align="center">
   
   <a href="https://ailogio.github.io/en/blog/forget-about-forgetting-work/">
